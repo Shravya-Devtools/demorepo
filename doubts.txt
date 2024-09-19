@@ -1,0 +1,52 @@
+An IT company is on a cost-optimization spree and wants to identify all Amazon Elastic Compute Cloud (Amazon EC2) instances that are under-utilized. Which AWS services can be used off-the-shelf to address this use-case without needing any manual configurations? (Select two)
+*
+1 point
+AWS Budgets
+AWS Trusted Advisor
+Amazon CloudWatch
+AWS Cost Explorer
+AWS Cost & Usage Report (AWS CUR)
+
+
+An IT company would like to move its IT resources (including any data and applications) from an AWS Region in the US to another AWS Region in Europe. Which of the following represents the correct solution for this use-case?
+*
+1 point
+The company should use AWS Database Migration Service (AWS DMS) to move the resources (including any data and applications) from source AWS Region to destination AWS Region
+The company should use AWS CloudFormation to move the resources (including any data and applications) from source AWS Region to destination AWS Region
+The company should just start creating new resources in the destination AWS Region and then migrate the relevant data and applications into this new AWS Region
+The company should raise a ticket with AWS Support for this resource migration
+
+
+
+
+Which of the following statements are true about Cost Allocation Tags in AWS Billing? (Select two)
+*
+1 point
+Tags help in organizing resources and are a mandatory configuration item to run reports
+For each resource, each tag key must be unique, and each tag key can have only one value
+You must activate both AWS generated tags and user-defined tags separately before they can appear in Cost Explorer or on a cost allocation report
+For each resource, each tag key must be unique, but can have multiple values
+Only user-defined tags need to be activated before they can appear in Cost Explorer or on a cost allocation report
+
+
+
+
+An IT company would like to move its IT resources (including any data and applications) from an AWS Region in the US to another AWS Region in Europe. Which of the following represents the correct solution for this use-case?
+*
+1 point
+The company should use AWS Database Migration Service (AWS DMS) to move the resources (including any data and applications) from source AWS Region to destination AWS Region
+The company should use AWS CloudFormation to move the resources (including any data and applications) from source AWS Region to destination AWS Region
+The company should just start creating new resources in the destination AWS Region and then migrate the relevant data and applications into this new AWS Region
+The company should raise a ticket with AWS Support for this resource migration
+
+
+
+
+
+Which of the following statements is correct regarding the Amazon Elastic File System (Amazon EFS) storage service?
+*
+1 point
+EC2 instances can access files on an Amazon Elastic File System (Amazon EFS) file system across many Availability Zones (AZ) and VPCs but not across Regions
+EC2 instances can access files on an Amazon Elastic File System (Amazon EFS) file system only in one Availability Zone (AZ)
+EC2 instances can access files on an Amazon Elastic File System (Amazon EFS) file system across many Availability Zones (AZ), Regions and VPCs
+EC2 instances can access files on an Amazon Elastic File System (Amazon EFS) file system across many Availability Zones (AZ) but not across VPCs and Regions
